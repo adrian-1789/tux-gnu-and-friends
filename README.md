@@ -1,1 +1,1 @@
-Just GNU/Linux related logos.
+Just some GNU/Linux related logos.
